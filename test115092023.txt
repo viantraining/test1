@@ -1,0 +1,21 @@
+Java es un lenguaje de programación de alto nivel y una plataforma de desarrollo que fue desarrollado por Sun Microsystems (ahora propiedad de Oracle Corporation) a mediados de la década de 1990. Java se ha convertido en uno de los lenguajes de programación más populares y ampliamente utilizados en el mundo, y se utiliza en una amplia variedad de aplicaciones y sistemas, desde aplicaciones web hasta aplicaciones móviles y sistemas embebidos.
+
+Aquí hay algunas características clave de Java:
+
+Independencia de plataforma: Java se diseñó para ser independiente de la plataforma, lo que significa que el código Java puede ejecutarse en diferentes sistemas operativos sin necesidad de realizar modificaciones significativas. Esto se logra a través de la Máquina Virtual Java (JVM), que interpreta y ejecuta el código Java.
+
+Orientado a objetos: Java es un lenguaje de programación orientado a objetos, lo que significa que se basa en conceptos como clases y objetos para modelar y organizar la lógica del programa.
+
+Seguridad: Java se ha diseñado con un enfoque en la seguridad. La JVM incluye un administrador de seguridad y un sistema de control de acceso para proteger contra posibles amenazas de seguridad, como la ejecución de código malicioso.
+
+Portabilidad: La portabilidad es una característica fundamental de Java. Los programas escritos en Java se pueden ejecutar en cualquier plataforma que tenga una JVM compatible, lo que facilita la distribución de software multiplataforma.
+
+Multi-hilo: Java ofrece soporte incorporado para la programación multiproceso y el manejo de hilos, lo que permite que las aplicaciones realicen tareas concurrentes de manera eficiente.
+
+Librería estándar: Java viene con una extensa librería estándar (también conocida como la API de Java) que proporciona una amplia gama de clases y métodos para realizar tareas comunes, como manejo de archivos, manipulación de cadenas, acceso a bases de datos, y más.
+
+Ecosistema amplio: Java tiene una comunidad activa de desarrolladores y una amplia variedad de herramientas de desarrollo, marcos y tecnologías asociadas, como Java EE (Enterprise Edition) para aplicaciones empresariales, Android para desarrollo de aplicaciones móviles y Spring Framework para desarrollo web.
+
+Versatilidad: Java se utiliza en una amplia gama de aplicaciones, desde desarrollo web (con tecnologías como Servlets y JSP) hasta desarrollo de aplicaciones de escritorio (con JavaFX) y desarrollo de aplicaciones móviles para dispositivos Android.
+
+En resumen, Java es un lenguaje de programación versátil y ampliamente utilizado que se destaca por su portabilidad, seguridad y capacidad para desarrollar una amplia variedad de aplicaciones en diferentes plataformas.
